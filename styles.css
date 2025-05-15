@@ -1,0 +1,58 @@
+/* Estilos gerais */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+}
+
+/* Cabeçalho */
+header {
+    background-color: #6a0dad;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+/* Seção Sobre Mim */
+.about-me {
+    background-color: #6a0dad;
+    padding: 20px;
+    margin: 20px;
+}
+
+.about-me h2 {
+    font-size: 2em;
+}
+
+/* Imagens */
+.graphic img {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.image {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+}
+
+.image img {
+    width: 80%;
+}
+
+/* Rodapé */
+.footer {
+    background-color: #f0e6f6;
+    padding: 10px;
+    margin-top: 10px;
+}
+
+.footer p {
+    margin: 5px 0;
+    color: #6a0dad;
+}
