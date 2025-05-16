@@ -45,11 +45,3 @@ programação Alura
     <footer>
         <p>&copy; 2024 Meu Nome</p>
     </footer>
-{
-    text-align: center;
-    padding: 10px;
-    background: #0077b6;
-    color: white;
-} document.addEventListener("DOMContentLoaded", function() {
-    console.log("Portfólio carregado!");
-});
