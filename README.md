@@ -44,4 +44,4 @@ programação Alura
 
     <footer>
         <p>&copy; 2024 Meu Nome</p>
-    </footer>
+    </footer> 
