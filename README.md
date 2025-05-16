@@ -45,51 +45,7 @@ programação Alura
     <footer>
         <p>&copy; 2024 Meu Nome</p>
     </footer>
-</body>
-</html>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f4;
-}
-
-header {
-    background-color: #0077b6;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
-nav ul {
-    list-style: none;
-    padding: 0;
-}
-
-nav ul li {
-    display: inline;
-    margin: 0 15px;
-}
-
-nav ul li a {
-    color: white;
-    text-decoration: none;
-}
-
-section {
-    padding: 20px;
-    margin: 20px;
-    background: white;
-    border-radius: 5px;
-}
-
-.projeto {
-    border: 1px solid #ddd;
-    padding: 10px;
-    margin: 10px 0;
-}
-
-footer {
+{
     text-align: center;
     padding: 10px;
     background: #0077b6;
