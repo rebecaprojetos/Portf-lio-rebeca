@@ -19,29 +19,3 @@ programação Alura
             </ul>
         </nav>
     </header>
-
-    <section id="sobre">
-        <h2>Sobre Mim</h2>
-        <p>Sou uma desenvolvedora apaixonada por tecnologia e inovação.</p>
-    </section>
-
-    <section id="projetos">
-        <h2>Meus Projetos</h2>
-        <div class="projeto">
-            <h3>Projeto 1</h3>
-            <p>Descrição do projeto.</p>
-        </div>
-        <div class="projeto">
-            <h3>Projeto 2</h3>
-            <p>Descrição do projeto.</p>
-        </div>
-    </section>
-
-    <section id="contato">
-        <h2>Contato</h2>
-        <p>Email: meuemail@email.com</p>
-    </section>
-
-    <footer>
-        <p>&copy; 2024 Meu Nome</p>
-    </footer>
